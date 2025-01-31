@@ -1,4 +1,0 @@
-ref kullanımı: Primitif (sayı, string, boolean, vb.) veya nesneleri reaktif hale getirmek için kullanılır.
-Değeri .value ile erişilir.
-
-reactive: Sadece nesneleri ve dizileri reaktif hale getirmek için kullanılır.
